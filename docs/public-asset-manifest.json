@@ -1,0 +1,101 @@
+{
+  "reference": "https://daybreak-piano-film.lexn8.chatgpt.site",
+  "recoveredAt": "2026-09-16",
+  "assets": [
+    {
+      "path": "assets/daybreak.mp3",
+      "sha256": "62b2794cc4870a18ae7e9145bbad7388852a898429f0abde43187760c1ae12c4",
+      "bytes": 9329162
+    },
+    {
+      "path": "assets/framework-CXnKph_e.js",
+      "sha256": "73b45b606448e4dc310fbe851d8089ee752f3eb081980b3a6fec88988820ee12",
+      "bytes": 189805
+    },
+    {
+      "path": "assets/index-DQ4L3OWu.js",
+      "sha256": "fb1d34dac78fe293103d5475ccfa25fdaaccf5ee74998745633e917a18f38a50",
+      "bytes": 80765
+    },
+    {
+      "path": "assets/layout-segment-context-3cQw0zQX.js",
+      "sha256": "a01dcedb6e473ec6e2f2d5be1032b626b91fed763fdfb39b18400ed9f8660a9c",
+      "bytes": 283
+    },
+    {
+      "path": "assets/materials/limestone.png",
+      "sha256": "c1f6a347307021adabd755fb9978c6de3679648041cd6727acf6ea8c12ad0a45",
+      "bytes": 3109925
+    },
+    {
+      "path": "assets/materials/spruce.png",
+      "sha256": "ee0029e923700ebdcff3a74da7a9c22dfe1e1bf9160a9ca7272b8c8f1f57e6a0",
+      "bytes": 2119515
+    },
+    {
+      "path": "assets/materials/walnut.png",
+      "sha256": "d02564790372c8e73b6d50ef942352ae7b9fc4c80e7c623aa1c23006483b531a",
+      "bytes": 2223952
+    },
+    {
+      "path": "assets/math-COP00n3K.js",
+      "sha256": "d4ed24b2aea12f16309bf7756b1125f2e63b3a6e530ca6c731781a7daf78a768",
+      "bytes": 576127
+    },
+    {
+      "path": "assets/pianist.glb",
+      "sha256": "77423a38d36b0365f5f81a145418327cd84be960b860cbb98079dec7b67c433d",
+      "bytes": 16021364
+    },
+    {
+      "path": "assets/rolldown-runtime-S-ySWqyJ.js",
+      "sha256": "5db5ba82eef00d1dee7e86e663098c9427d01183a88d357437daff295aec3e75",
+      "bytes": 694
+    },
+    {
+      "path": "assets/score.json",
+      "sha256": "5c7337e63181228c284f4a58c3b9906a9679b597c5e1f810016716ecc5cb5467",
+      "bytes": 422514
+    },
+    {
+      "path": "assets/stage-portrait.webp",
+      "sha256": "0010b45bce3fe10d1b4e9e12a9c802d1f6950b00665874e7327602fe14cecd77",
+      "bytes": 220962
+    },
+    {
+      "path": "assets/stage-poster.webp",
+      "sha256": "2a5e31fdf58038151501c28d10c5ba309cc21d2c09833f74d70d9c81ff55bb1d",
+      "bytes": 232862
+    },
+    {
+      "path": "favicon.svg",
+      "sha256": "9b67ce62e5e37fb6efc3b13502dd29118d773c2b8361752bda822aac834d3da8",
+      "bytes": 278
+    },
+    {
+      "path": "assets/Performance--Ry4heDi.js",
+      "sha256": "bd3f187427013e31bef1631d8bbf1b2b7d1c6c8b6108c58593c5f1e90bebafda",
+      "bytes": 75181
+    },
+    {
+      "path": "assets/scene-B4wwGGrN.js",
+      "sha256": "a4fe422d71c3098284358d190574a510465177e1cce04b19d7fb3721ee0985a7",
+      "bytes": 302941
+    },
+    {
+      "path": "assets/index-Bz1oNEDs.css",
+      "sha256": "f9cda27e553b8f75bb32f655ff8a1a98ea81bd75112ad62912337613eb306bd9",
+      "bytes": 138894
+    },
+    {
+      "path": "assets/software-notices.txt",
+      "sha256": "a3f2fe8021835342c697de26c419d4c40d686dd76d97b4f7296b356a3bdd78d7",
+      "bytes": 78333
+    },
+    {
+      "path": "assets/credits.txt",
+      "sha256": "c8eee97aaa5152b199f5f2c58aed481f91f25f36b26133bbf27ea6a251e83734",
+      "bytes": 1500
+    }
+  ]
+}

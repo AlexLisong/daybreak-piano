@@ -1,0 +1,16 @@
+{
+  "name": "daybreak-piano-film",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Faithful public-build reconstruction of Daybreak \u00b7 A piano performance",
+  "type": "module",
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "dev": "node scripts/server.mjs",
+    "preview": "node scripts/server.mjs",
+    "check": "node scripts/check.mjs"
+  },
+  "devDependencies": {
+    "prettier": "3.6.2"
+  }
+}
